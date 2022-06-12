@@ -1,10 +1,6 @@
 # Aircnc-Backend
 Feito com a ajuda de Diego Fernandes da Rocketseat. *Semana OmniStack 9.0*.
 
-## Outros projetos
-- Em breve!
-
-
 ## Características
 - MondoDB
 	- Utiliza-se o serviço **Mongo Atlas** - [Site](https://cloud.mongodb.com "Visitar")
